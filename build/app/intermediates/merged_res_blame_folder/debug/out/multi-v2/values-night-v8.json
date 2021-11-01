@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/douglas/AmbienteFlutter/rick_morty/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/home/douglas/AmbienteFlutter/rick_morty/android/app/src/main/res/values-night/styles.xml",
+                    "from": {
+                        "startLines": "3,-1",
+                        "startColumns": "4,-1",
+                        "startOffsets": "172,-1",
+                        "endLines": "8,-1",
+                        "endColumns": "12,-1",
+                        "endOffsets": "523,-1"
+                    },
+                    "to": {
+                        "startLines": "2,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,411",
+                        "endLines": "7,10",
+                        "endColumns": "12,12",
+                        "endOffsets": "406,575"
+                    }
+                }
+            ]
+        }
+    ]
+}
